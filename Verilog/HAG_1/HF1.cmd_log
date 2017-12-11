@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Programming/Verilog/HAG_1/HF1.xst" -ofn "D:/Programming/Verilog/HAG_1/HF1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s250e-tq144-4 HF1.ngc HF1.ngd  
+xst -intstyle ise -ifn "D:/Programming/Verilog/HAG_1/HF1.xst" -ofn "D:/Programming/Verilog/HAG_1/HF1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim HF1.ngc HF1_synthesis.v 

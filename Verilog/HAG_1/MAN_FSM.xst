@@ -1,0 +1,5 @@
+set -tmpdir "D:/Programming/Verilog/HAG_1/xst/projnav.tmp"
+set -xsthdpdir "D:/Programming/Verilog/HAG_1/xst"
+elaborate
+-ifn MAN_FSM.prj
+-ifmt mixed

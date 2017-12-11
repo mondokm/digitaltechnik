@@ -1,0 +1,43 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Programming/Verilog/HAG_1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.31 secs
+ 
+--> Parameter xsthdpdir set to D:/Programming/Verilog/HAG_1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.31 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "STD_FSM.v" in library work
+Compiling verilog file "MAN_FSM.v" in library work
+Module <STD_FSM> compiled
+Compiling verilog file "IND_FSM.v" in library work
+Module <MAN_FSM> compiled
+Compiling verilog file "HF1.v" in library work
+Module <IND_FSM> compiled
+Module <HF1> compiled
+No errors in compilation
+Analysis of file <"HF1.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.59 secs
+ 
+--> 
+
+Total memory usage is 265952 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Programming/Verilog/HAG_1/TF_isim_beh.exe" -prj "D:/Programming/Verilog/HAG_1/TF_beh.prj" "work.TF" "work.glbl" 
